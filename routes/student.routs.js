@@ -1,7 +1,6 @@
 const { Router } = require("express");
 const {
   Student_add,
-  StudentImage,
   studentdata,
   getadmin,
 } = require("../controller/student.controller");
